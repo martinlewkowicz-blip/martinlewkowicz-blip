@@ -14,6 +14,4 @@ IT- und Homelab-Projekte mit Linux, Netzwerken, Containern und GitOps.
 
 ## Projekte
 
-- [home-ops](link) – Homelab-Infrastruktur, Kubernetes, Flux und Backups
-- [linux-desktop](link) – Void-Linux-Desktop, Sicherheit und Skripte
-# martinlewkowicz-blip
+- [hpihole-keepalived-dns](link) – Highly Available DNS with Pi-hole and Keepalived
