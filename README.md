@@ -14,4 +14,4 @@ IT- und Homelab-Projekte mit Linux, Netzwerken, Containern und GitOps.
 
 ## Projekte
 
-- [hpihole-keepalived-dns](link) – Highly Available DNS with Pi-hole and Keepalived
+- [hpihole-keepalived-dns](https://github.com/martinlewkowicz-blip/pihole-keepalived-dns) – Highly Available DNS with Pi-hole and Keepalived
